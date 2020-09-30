@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane minHeight="500.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Label layoutX="184.0" layoutY="40.0" onDragDetected="#evento1" text="Mi primer programa" />
+      <TextField layoutX="48.0" layoutY="97.0" />
+      <Label fx:id="lbltitulo" layoutX="48.0" layoutY="66.0" text="Inserta tu edad" />
+      <Button fx:id="txtedad" layoutX="238.0" layoutY="97.0" mnemonicParsing="false" onAction="#evento1" text="aceptar" />
+   </children>
+</AnchorPane>
