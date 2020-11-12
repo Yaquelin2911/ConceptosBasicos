@@ -50,13 +50,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="226" y="126" key="FileChooserDialogImpl" timestamp="1602201907006">
+    <state x="226" y="126" key="FileChooserDialogImpl" timestamp="1604951702000">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="226" y="126" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602201907006" />
+    <state x="226" y="126" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604951702000" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1602201918370">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602201918370" />
+    <state x="392" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1604951506837">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="392" y="387" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1604951506837" />
+    <state x="0" y="11" key="new project wizard" timestamp="1604951709969">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="11" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1604951709969" />
   </component>
 </project>
